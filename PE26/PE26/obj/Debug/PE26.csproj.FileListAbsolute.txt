@@ -1,0 +1,12 @@
+C:\Users\JPM\Documents\Programs\2155\PE26\PE26\bin\Debug\PE26.exe.config
+C:\Users\JPM\Documents\Programs\2155\PE26\PE26\bin\Debug\PE26.exe
+C:\Users\JPM\Documents\Programs\2155\PE26\PE26\bin\Debug\PE26.pdb
+C:\Users\JPM\Documents\Programs\2155\PE26\PE26\obj\Debug\PE26.csprojResolveAssemblyReference.cache
+C:\Users\JPM\Documents\Programs\2155\PE26\PE26\obj\Debug\PE26.exe
+C:\Users\JPM\Documents\Programs\2155\PE26\PE26\obj\Debug\PE26.pdb
+C:\Users\JPM\Documents\Programs\2155\PE26 - Meeks\PE26\PE26\bin\Debug\PE26.exe.config
+C:\Users\JPM\Documents\Programs\2155\PE26 - Meeks\PE26\PE26\obj\Debug\PE26.exe
+C:\Users\JPM\Documents\Programs\2155\PE26 - Meeks\PE26\PE26\obj\Debug\PE26.pdb
+C:\Users\JPM\Documents\Programs\2155\PE26 - Meeks\PE26\PE26\bin\Debug\PE26.exe
+C:\Users\JPM\Documents\Programs\2155\PE26 - Meeks\PE26\PE26\bin\Debug\PE26.pdb
+C:\Users\JPM\Documents\Programs\2155\PE26 - Meeks\PE26\PE26\obj\Debug\PE26.csprojResolveAssemblyReference.cache
